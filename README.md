@@ -1,12 +1,12 @@
 Internship-Report
 
 On Wiki window, you can find:
-About the Author
+1. About the Author
   - information about the author
-Company
+2. Company
   - information about the company the author worked as an intern for
-Work
+3. Work
   - work done during the author's stay with date, sources and applications used
-Case Study
+4. Case Study
   - case study on work done for the company
 
