@@ -10,4 +10,4 @@ Work
 Case Study
   - case study on work done for the company
   
-On Code window, you can find several snippets of codes used in the development of project entrusted to the author and her teammates
+On Code window, you can find several snippets of codes used in the development of project entrusted to the author and her teammates. Also, the README file
