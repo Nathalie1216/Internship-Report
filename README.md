@@ -10,3 +10,5 @@ On Wiki window, you can find:
 - Case Study
   - case study on work done for the company
 
+On Code window of branch "master", you can find the README.md file.
+On Code window of branch "snippets", you can find several code snippets
